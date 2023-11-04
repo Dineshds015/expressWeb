@@ -1,0 +1,23 @@
+{
+  "name": "expressweb",
+  "version": "1.0.0",
+  "description": "expressWeb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dineshds015/expressWeb.git"
+  },
+  "author": "Dinesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dineshds015/expressWeb/issues"
+  },
+  "homepage": "https://github.com/Dineshds015/expressWeb#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  }
+}
